@@ -23,3 +23,12 @@ Tip: Have a time-bound goal, not an outcome one.
 
 **Link to Work:** [Pokedex](https://github.com/leossantiago/pokedex/commit/780a4c2e2519ae047c55ad76f8b1982242973e68)
 
+---
+
+### Day 2: Friday, August 14, 2020
+
+**Today's Progress:** Today I started working on a private project, as part of a company's technical tests. It'll be my main focus for the next few days. Definitely feeling as going back to square one, and rethinking my way of coding. Quick note on trying to organize my progress in logical commits.
+
+**Thoughts:** Had to kinda of put automated testing aside for a little bit, but it feels like it's going to pay off in the long run. Trying to sharpen my knowledge in some basic things related to React and problem-solving. 
+
+**Link to Work:** -
