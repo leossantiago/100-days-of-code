@@ -32,3 +32,13 @@ Tip: Have a time-bound goal, not an outcome one.
 **Thoughts:** Had to kinda of put automated testing aside for a little bit, but it feels like it's going to pay off in the long run. Trying to sharpen my knowledge in some basic things related to React and problem-solving. 
 
 **Link to Work:** -
+
+---
+
+### Day 3: Saturday, August 15, 2020
+
+**Today's Progress:** Still working on the technical tests. Spent many hours dealing with hooks, Redux, CSS and API requests. Things are starting to take form, and I feel some improvements in developing parts of the application logically.
+
+**Thoughts:** It's nice to have learned some tricks with Redux. Still getting used with it, but it's awesome to understand what's going on. I've been trying my best to come up with a pretty and useful interface, but definitelly am going to need some UX classes.
+
+**Link to Work:** -
