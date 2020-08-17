@@ -42,3 +42,13 @@ Tip: Have a time-bound goal, not an outcome one.
 **Thoughts:** It's nice to have learned some tricks with Redux. Still getting used with it, but it's awesome to understand what's going on. I've been trying my best to come up with a pretty and useful interface, but definitelly am going to need some UX classes.
 
 **Link to Work:** -
+
+---
+
+### Day 4: Sunday, August 16, 2020
+
+**Today's Progress:** Worked on the implementation of several functionalities in the application I'm currently developing (still technical tests). Lots of state management and API requests. Looking forward to start testing the components in the next days.
+
+**Thoughts:** Feeling super excited about programming and putting my skills to test. Definitely more confident with what I'm doing, and thinking my next steps logically and carefully.
+
+**Link to Work:** -
