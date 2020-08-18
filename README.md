@@ -55,7 +55,7 @@ Tip: Have a time-bound goal, not an outcome one.
 
 ---
 
-### Day 4: Sunday, August 16, 2020 (logged in the next day)
+### Day 5: Monday, August 17, 2020 (logged in the next day)
 
 **Today's Progress:** Spent the day working on styling and structure of my project and some minor fixes.
 
