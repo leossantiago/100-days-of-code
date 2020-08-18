@@ -52,3 +52,14 @@ Tip: Have a time-bound goal, not an outcome one.
 **Thoughts:** Feeling super excited about programming and putting my skills to test. Definitely more confident with what I'm doing, and thinking my next steps logically and carefully.
 
 **Link to Work:** -
+
+---
+
+### Day 4: Sunday, August 16, 2020 (logged in the next day)
+
+**Today's Progress:** Spent the day working on styling and structure of my project and some minor fixes.
+
+**Thoughts:** This day was so intense that I completely forgot to log it. In an overall, I'm getting used to coding a lot everyday. 
+
+**Link to Work:** -
+
