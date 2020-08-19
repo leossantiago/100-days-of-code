@@ -63,3 +63,13 @@ Tip: Have a time-bound goal, not an outcome one.
 
 **Link to Work:** -
 
+---
+
+### Day 6: Tuesday, August 18, 2020
+
+**Today's Progress:** Today I jumped into tests. Researched a lot about integration and e2e tests. Wrote my first tests using Cypress, and am looking foward to finish the application I'm working on by the end of the week.
+
+**Thoughts:** Worst day in terms of productivity since the start of the challenge, and also had to handle some personal stuff. But I'm glad with today's progress. Created the base to a lot that's about to come, related to automated tests.
+
+**Link to Work:** -
+
