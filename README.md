@@ -73,3 +73,12 @@ Tip: Have a time-bound goal, not an outcome one.
 
 **Link to Work:** -
 
+---
+
+### Day 7: Wednesday, August 19, 2020 (logged in the next day)
+
+**Today's Progress:** Wrote tons of tests, learned alot about using cypress and e2e tests. Also made some optimizations and ajustments on my application and it's Redux Store.
+
+**Thoughts:** Feeling way more confident with my code after starting writing tests. Cypress is an awesome tool, and even though acceptance tests being expensive when compared with unit tests i.e., it's really cool to see your application run in an user's perspective.
+
+**Link to Work:** -
