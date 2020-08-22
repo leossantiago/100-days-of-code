@@ -82,3 +82,23 @@ Tip: Have a time-bound goal, not an outcome one.
 **Thoughts:** Feeling way more confident with my code after starting writing tests. Cypress is an awesome tool, and even though acceptance tests being expensive when compared with unit tests i.e., it's really cool to see your application run in an user's perspective.
 
 **Link to Work:** -
+
+---
+
+### Day 8: Thursday, August 20, 2020 (logged in the next day)
+
+**Today's Progress:** Finished writing the e2e tests, using Cypress.
+
+**Thoughts:** This past week was crazy. Tons of hours studying, and tons of tests written.
+
+**Link to Work:** -
+
+---
+
+### Day 9: Friday, August 19, 2020
+
+**Today's Progress:** Wrote unit and integration tests using Jest and React Testing Library. Tweaked some necessary things into the application itself and its styling. Ended completing the task, but i'll try to improve it even more in the future. 
+
+**Thoughts:** Technical test finished. When I got into it, at first I was kinda upset because I would've to stop studying about tests to start a whole new application. But in the end, it was an awesome week. Tiring, but learned alot. Also, experienced writing real tests, from unit to e2e. In an overall I'm really happy with what I've developed. Looking forward for the next steps in my journey.
+
+**Link to Work:** -
