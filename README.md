@@ -95,10 +95,20 @@ Tip: Have a time-bound goal, not an outcome one.
 
 ---
 
-### Day 9: Friday, August 19, 2020
+### Day 9: Friday, August 21, 2020
 
 **Today's Progress:** Wrote unit and integration tests using Jest and React Testing Library. Tweaked some necessary things into the application itself and its styling. Ended completing the task, but i'll try to improve it even more in the future. 
 
 **Thoughts:** Technical test finished. When I got into it, at first I was kinda upset because I would've to stop studying about tests to start a whole new application. But in the end, it was an awesome week. Tiring, but learned alot. Also, experienced writing real tests, from unit to e2e. In an overall I'm really happy with what I've developed. Looking forward for the next steps in my journey.
+
+**Link to Work:** -
+
+---
+
+### Day 10: Saturday, August 22, 2020
+
+**Today's Progress:** Decided to start learning some things related to back-end. Made my first steps with Ruby and Rails.
+
+**Thoughts:** After a crazy week, took the weekend to slow down a little bit. At the same time, I'm planning the next steps, and gonna spend the next few days working with Ruby.
 
 **Link to Work:** -
